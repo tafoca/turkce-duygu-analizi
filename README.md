@@ -1,3 +1,18 @@
+# Objective
+
+## Sentiment Analysis:
+It is aimed to analyze the entered comment content and predict the comment as positive or negative.
+Features
+
+    * With the data collection service, reviews of any product can be retrieved from different e-commerce sites.
+
+    * The collected data is trained with machine learning methods and turned into a model.
+
+    * The resulting model can be turned into a service and used as a web application.
+
+Technologies Used
+![araclar](https://user-images.githubusercontent.com/48556212/71591376-23b0a500-2b3d-11ea-8d3d-1e50473cad43.png) 
+
 # Türkçe Duygu Analizi
 Turkish sentiment analysis
 
@@ -25,3 +40,5 @@ Girilen yorum içeriğinin analiz edilip,yorumun olumlu ya da olumsuz olarak tah
 
 ## Kullanılan Teknolojiler
 ![araclar](https://user-images.githubusercontent.com/48556212/71591376-23b0a500-2b3d-11ea-8d3d-1e50473cad43.png)
+
+
